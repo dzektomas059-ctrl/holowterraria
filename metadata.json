@@ -1,0 +1,6 @@
+{
+  "name": "Hollowfall",
+  "description": "Полноценная 2D-песочница в духе Terraria с механикой Фазового сдвига между Светлым и Теневым слоями, процедурной генерацией, строительством, крафтом и битвами с боссами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
